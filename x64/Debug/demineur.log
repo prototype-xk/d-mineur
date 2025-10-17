@@ -1,0 +1,4 @@
+﻿  demineur.cpp
+C:\Users\ebaloche\source\repos\demineur\demineur\demineur.cpp(113,10): warning C4101: 'Victoire' : variable locale non référencée
+C:\Users\ebaloche\source\repos\demineur\demineur\demineur.cpp(53): warning C4715: 'CalculNombreAutour' : les chemins de contrôle ne retournent pas tous une valeur
+  demineur.vcxproj -> C:\Users\ebaloche\source\repos\demineur\x64\Debug\demineur.exe
